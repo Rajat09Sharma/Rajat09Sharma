@@ -27,11 +27,12 @@
 
 ### 🚀 Featured Projects  
 
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| [**Pixisphere**](https://github.com/Rajat09Sharma/impresio-backend-task) | Node.js, Express, MongoDB, JWT | Photography platform backend with authentication, portfolio management, inquiries, and reviews. |
-| [**Kanban Task Manager**](https://github.com/Rajat09Sharma/Kanban-App) | MERN, Redux, Tailwind | Full-stack Kanban board with drag-and-drop, Smart Assign, and activity logs. |
-| [**Portfolio Website**](https://github.com/Rajat09Sharma/portfolio) | React, TailwindCSS | Modern personal portfolio showcasing skills, projects, and journey. |
+| Project | Tech Stack | Description | Live URL |
+|---------|-----------|-------------|----------|
+| [**Pixisphere**](https://github.com/Rajat09Sharma/impresio-backend-task) | Node.js, Express, MongoDB, JWT | Photography platform backend with authentication, portfolio management, inquiries, and reviews. | [Live Demo](https://pixisphere.vercel.app) |
+| [**Kanban Task Manager**](https://github.com/Rajat09Sharma/Kanban-App) | MERN, Redux, Tailwind | Full-stack Kanban board with drag-and-drop, Smart Assign, and activity logs. | [Live Demo](https://kanban-task.vercel.app) |
+| [**Portfolio Website**](https://github.com/Rajat09Sharma/portfolio) | React, TailwindCSS | Modern personal portfolio showcasing skills, projects, and journey. | [Live Site](https://rajat-sharma-portfolio.netlify.app) |
+
 
 ---
 
