@@ -42,9 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajat09Sharma&theme=radical" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajat09Sharma&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff&area=true&hide_border=true" />
-</p>
 
 ---
 
@@ -61,7 +58,6 @@
 ### 🎨 Fun Extras  
 
 - 🔥 Visitors Count: ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rajat09Sharma.Rajat09Sharma)  
-- 🌓 Theme: ![Light](https://img.shields.io/badge/Theme-Light-lightgray?style=flat-square) ![Dark](https://img.shields.io/badge/Theme-Dark-black?style=flat-square)  
 - 🎵 Currently Learning: System Design, Advanced Backend Patterns  
 
 ---
